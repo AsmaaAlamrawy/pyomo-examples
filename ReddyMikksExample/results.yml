@@ -1,0 +1,43 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpje5g_5yj
+  Lower bound: 21.0
+  Upper bound: 21.0
+  Number of objectives: 1
+  Number of constraints: 5
+  Number of variables: 3
+  Number of nonzeros: 8
+  Sense: maximize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 1.3
+  Termination condition: optimal
+  Termination message: Dual simplex - Optimal\x3a Objective = 2.1000000000e+01
+  Error rc: 0
+  Time: 3.4720914363861084
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    OBJ:
+      Value: 21
+  Variable:
+    x[1]:
+      Value: 3
+    x[2]:
+      Value: 1.5
+  Constraint: No values
